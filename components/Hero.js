@@ -26,7 +26,11 @@ const Hero = () => {
                   </a>
                 </Link>
                 <Link legacyBehavior href="assets/images/about/Resume.pdf">
-                  <a className="read-more">
+                  <a
+                    className="read-more"
+                    href="assets/images/about/Resume.pdf"
+                    target="_blank"
+                  >
                     Download Resume <i className="far fa-angle-right" />
                   </a>
                 </Link>
