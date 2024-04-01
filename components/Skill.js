@@ -70,7 +70,7 @@ const Skill = () => {
                     that get results!
                   </p>
                 </div>
-                <Link legacyBehavior href="/about">
+                <Link legacyBehavior href="https://blog.adobe.com/">
                   <a className="theme-btn">
                     Learn More <i className="far fa-angle-right" />
                   </a>
