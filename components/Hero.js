@@ -25,7 +25,7 @@ const Hero = () => {
                     Hire Me <i className="far fa-angle-right" />
                   </a>
                 </Link>
-                <Link legacyBehavior href="assets/images/about/Resume.pdf">
+                <Link legacyBehavior href="/contact">
                   <a
                     className="read-more"
                     href="assets/images/about/Resume.pdf"
