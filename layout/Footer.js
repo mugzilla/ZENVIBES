@@ -124,7 +124,7 @@ const Footer1 = () => {
                     Noxfolio
                   </Link>{" "} */}
                   All Rights Reserved by{" "}
-                  <span style={{ color: "yellow" }}>Mugzilla</span>, Zen Vibes
+                  <span style={{ color: "yellow" }}>Mugzar</span>, Zen Vibes
                   Technologies Inc
                 </p>
               </div>
