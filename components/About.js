@@ -12,7 +12,7 @@ const About = () => {
                   <span className="sub-title mb-15">About Me</span>
                   <h2>
                     Freelance <span>Professional</span> For Digital Content
-                    Creation
+                    Creation @ ZenVibes Technologies Inc.
                   </h2>
                   <p align="justify">
                     I'm a passionate creative professional with a talent for
