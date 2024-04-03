@@ -10,7 +10,7 @@ const About = () => {
               <div className="about-content-part rel z-2 rmb-55">
                 <div className="section-title mb-35 wow fadeInUp delay-0-2s">
                   <span className="sub-title mb-15">About Me</span>
-                  <h2>
+                  <h2 align="justify">
                     Freelance <span>Professional</span> For Digital Content
                     Creation @ ZenVibes Technologies Inc.
                   </h2>
