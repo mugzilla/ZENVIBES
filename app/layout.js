@@ -29,10 +29,10 @@ const fontFamily = `${inter.variable} ${dm_sans.variable} `;
 
 export const metadata = {
   title: {
-    template: "Mzfolio - Mugzar Portfolio || %s",
-    default: "Mzfolio - Mugzar Portfolio  || Home", // a default is required when creating a template
+    template: "ZenVibes Technologies|| %s",
+    default: "ZenVibes Technologies || Home", // a default is required when creating a template
   },
-  description: "Powered by the Next JS framework",
+  description: "Branding, Graphic Designing, Video Editing & Advertising",
 };
 
 export default function RootLayout({ children }) {
