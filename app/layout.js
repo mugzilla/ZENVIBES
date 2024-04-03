@@ -1,5 +1,5 @@
 import { DM_Sans, Inter } from "next/font/google";
-
+import Script from "next/script";
 import Preloader from "@/layout/Preloader";
 import "@css/animate.min.css";
 import "@css/bootstrap.min.css";
@@ -42,6 +42,10 @@ export default function RootLayout({ children }) {
         <Preloader />
         {children}
       </body>
+      <script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-FZJF4CDT3F"
+      ></script>
     </html>
   );
 }
