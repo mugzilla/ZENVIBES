@@ -21,7 +21,7 @@ const Projects = () => {
           <div className="col-lg-6">
             <div className="project-image wow fadeInLeft delay-0-2s">
               <img
-                src="assets/images/projects/FullCarrot.jpg"
+                src="assets/images/projects/FullCarrot.png"
                 alt="Project"
                 width={500}
                 height={500}
@@ -52,7 +52,7 @@ const Projects = () => {
           <div className="col-lg-6">
             <div className="project-image wow fadeInLeft delay-0-2s">
               <img
-                src="assets/images/projects/Fullblackpepper.jpg"
+                src="assets/images/projects/Fullblackpepper.png"
                 alt="Project"
                 width={500}
                 height={500}
