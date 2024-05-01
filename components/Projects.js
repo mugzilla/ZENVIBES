@@ -21,7 +21,69 @@ const Projects = () => {
           <div className="col-lg-6">
             <div className="project-image wow fadeInLeft delay-0-2s">
               <img
-                src="assets/images/projects/Productcover.jpg"
+                src="assets/images/projects/FullCarrot.jpg"
+                alt="Project"
+                width={500}
+                height={500}
+              />
+            </div>
+          </div>
+          <div className="col-xl-5 col-lg-6">
+            <div className="project-content wow fadeInRight delay-0-2s">
+              <span className="sub-title">Package Label Design</span>
+              <h2>
+                <Link legacyBehavior href="#">
+                  Orinoco Agro Solutions, Inc.
+                </Link>
+              </h2>
+              <p>
+                This project is a Glass Jar Label design using Adobe Illustrator
+                and mockup using Adobe Photoshop.
+              </p>
+              <Link legacyBehavior href="#">
+                <a className="details-btn">
+                  <i className="far fa-arrow-right" />
+                </a>
+              </Link>
+            </div>
+          </div>
+        </div>
+        <div className="row align-items-center pb-25">
+          <div className="col-lg-6">
+            <div className="project-image wow fadeInLeft delay-0-2s">
+              <img
+                src="assets/images/projects/Fullblackpepper.jpg"
+                alt="Project"
+                width={500}
+                height={500}
+              />
+            </div>
+          </div>
+          <div className="col-xl-5 col-lg-6">
+            <div className="project-content wow fadeInRight delay-0-2s">
+              <span className="sub-title">Package Label Design</span>
+              <h2>
+                <Link legacyBehavior href="#">
+                  Orinoco Agro Solutions, Inc.
+                </Link>
+              </h2>
+              <p>
+                This project is a Glass Jar Label design using Adobe Illustrator
+                and mockup using Adobe Photoshop.
+              </p>
+              <Link legacyBehavior href="#">
+                <a className="details-btn">
+                  <i className="far fa-arrow-right" />
+                </a>
+              </Link>
+            </div>
+          </div>
+        </div>
+        <div className="row align-items-center pb-25">
+          <div className="col-lg-6">
+            <div className="project-image wow fadeInLeft delay-0-2s">
+              <img
+                src="assets/images/projects/cover.jpg"
                 alt="Project"
                 width={500}
                 height={500}
